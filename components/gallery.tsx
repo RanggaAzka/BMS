@@ -16,10 +16,10 @@ export function Gallery() {
         <div className="flex items-end justify-between gap-4">
           <div>
             <h2 id="galeri-title" className="animate-fade-in text-balance text-2xl font-semibold md:text-3xl">
-              Proyek Terbaru
+              Jenis Proyek
             </h2>
             <p className="animate-slide-up mt-2 max-w-2xl text-muted-foreground">
-              Cuplikan hasil pekerjaan kami di berbagai lokasi dan kebutuhan.
+              Cuplikan jenis pekerjaan yang bisa kami tangani di berbagai lokasi dan kebutuhan.
             </p>
           </div>
         </div>
